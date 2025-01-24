@@ -1,2 +1,2 @@
-# goit-markup-hw-01
-this is my first home work on goit
+# goit-markup-hw-02
+this is my second home work on goit
