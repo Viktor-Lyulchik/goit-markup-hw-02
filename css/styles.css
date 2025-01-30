@@ -85,7 +85,7 @@ ol {
   background-color: #2e2f42;
 }
 
-.effective-solutions-h1 {
+.esolutions-h1 {
   color: #ffffff;
   font-weight: 700;
   font-size: 56px;
@@ -112,6 +112,7 @@ ol {
 .features-text {
   line-height: 1.5;
   color: #434455;
+  letter-spacing: 0.02em;
 }
 
 .team {
@@ -138,6 +139,7 @@ ol {
 .team-text {
   line-height: 1.5;
   color: #434455;
+  letter-spacing: 0.02em;
 }
 
 .portfolio-header {
@@ -173,4 +175,5 @@ ol {
 
 .bottom-text {
   line-height: 1.5;
+  letter-spacing: 0.02em;
 }
