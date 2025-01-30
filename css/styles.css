@@ -1,0 +1,161 @@
+/* правило для блоку body і всіх дочірніх елементів */
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #ffffff;
+  color: #434455;
+}
+
+/* правила для скидання дефолтного підкреслення для посилань */
+a {
+  text-decoration: none;
+}
+
+/* правила для скидання дефолтного підкреслення для маркерів у списках */
+ul,
+ol {
+  list-style-type: none;
+}
+
+/* правило для 2ї частини логотипу */
+.webstudio-link {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 117%;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #2e2f42;
+}
+/* правило для першої частини логотипу */
+.logo-ws {
+  color: #4d5ae5;
+}
+
+/* меню навігації */
+.menu {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+/* правила для інтеактивних елементів, кнопок і посилань */
+.button {
+  cursor: pointer;
+  background-color: #4d5ae5;
+}
+
+.button:hover {
+  background-color: #404bbf;
+}
+
+.button:focus {
+  background-color: #404bbf;
+}
+
+.link {
+  color: #434455;
+}
+
+.link:hover,
+.link:focus {
+  color: #404bbf;
+}
+
+.address .link:hover,
+.address .link:focus {
+  color: #4d5ae5;
+}
+
+/* оформлення основних секцій */
+.effective-solutions {
+  color: #ffffff;
+  background-color: #2e2f42;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 107%;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+
+.effective-solutions .button {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+}
+
+.features-header3 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.features-text {
+  line-height: 1.5;
+  color: #434455;
+}
+
+.team {
+  background-color: #f4f4fd;
+}
+
+.team-header {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 111%;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.team-header3 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.team-text {
+  line-height: 1.5;
+  color: #434455;
+}
+
+.portfolio-header {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 111%;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.portfolio-header3 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.portfolio-text {
+  line-height: 1.5;
+  color: #434455;
+}
+
+.bottom {
+  background-color: #2e2f42;
+  color: #f4f4fd;
+}
+
+.bottom .webstudio-link {
+  color: #f4f4fd;
+}
+
+.bottom-text {
+  line-height: 1.5;
+}
