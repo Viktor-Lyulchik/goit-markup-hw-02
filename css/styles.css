@@ -55,7 +55,7 @@ ol {
 }
 
 .link {
-  color: #434455;
+  color: #2e2f42;
 }
 
 .link:hover,
@@ -63,13 +63,17 @@ ol {
   color: #404bbf;
 }
 
-.address {
+.address-link {
   font-style: normal;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
-.address .link:hover,
-.address .link:focus {
-  color: #4d5ae5;
+.address-link:hover,
+.address-link:focus {
+  color: #404bbf;
 }
 
 /* оформлення основних секцій */
