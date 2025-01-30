@@ -81,6 +81,10 @@ ol {
 }
 
 /* оформлення основних секцій */
+.effective-solutions {
+  background-color: #2e2f42;
+}
+
 .effective-solutions-h1 {
   color: #ffffff;
   background-color: #2e2f42;
