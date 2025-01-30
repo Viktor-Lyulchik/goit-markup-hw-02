@@ -85,7 +85,7 @@ ol {
   background-color: #2e2f42;
 }
 
-.esolutions-h1 {
+.esolutions-hdr {
   color: #ffffff;
   font-weight: 700;
   font-size: 56px;
@@ -119,7 +119,7 @@ ol {
   background-color: #f4f4fd;
 }
 
-.team-header {
+.team-header2 {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -136,7 +136,7 @@ ol {
   color: #2e2f42;
 }
 
-.team-text {
+.team-txt {
   line-height: 1.5;
   color: #434455;
   letter-spacing: 0.02em;
